@@ -1,5 +1,5 @@
 # mern-auth-app
 
-##   ->npm install
+##   -->npm install
 
-##   ->npm start
+##   -->npm start
